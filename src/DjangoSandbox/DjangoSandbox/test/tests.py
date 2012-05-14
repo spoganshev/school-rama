@@ -10,7 +10,7 @@ class ProductionClass:
     def method(self):
         return "production stuff"
 
-class Test(unittest.TestCase):
+class ProductionTest(unittest.TestCase):
 
     def setUp(self):
         pass
